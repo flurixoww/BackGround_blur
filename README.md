@@ -1,3 +1,4 @@
+
 # Manual
 For correct operation of the application you need 
 1. Python 3.10 or newer( [python.org](https://www.python.org/) )
