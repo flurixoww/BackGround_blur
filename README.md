@@ -22,7 +22,7 @@ After installing all frameworks you have to install one of these files.
 <li>Then open blur_cmd.py( py blur_cmd.py ) <br>
 <li>Insert full path to your picture ( like this C:\Users\fluri\Pictures\Screenshots\123.jpg )<br>
 <li>Wait a 15-30 seconds. <br>
-<li>When the program finishes its work it will close, and your will be saved in directory with this program.
+<li>When the program finishes its work it will close, and your blurred picture will be saved in directory with this program.
 </ul>
 
 
