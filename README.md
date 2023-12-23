@@ -10,7 +10,6 @@ For correct operation of the application you need
 After installing all frameworks you have to install one of these files.
 <ul>
     <li>back_blur.ipynb
-    <li>blur_cmd.exe (Not working. I'm now trying fix the bug)
     <li>blur_cmd.py
 </ul>
 
