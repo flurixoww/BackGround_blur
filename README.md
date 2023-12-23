@@ -1,5 +1,5 @@
 
-# Manual
+# Manual(Same with remover)
 For correct operation of the application you need 
 1. Python 3.10 or newer( [python.org](https://www.python.org/) )
 2. Pytorch latest version( https://pytorch.org/get-started/locally/ )
